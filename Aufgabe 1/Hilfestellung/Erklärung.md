@@ -1,3 +1,5 @@
+# Erklärung der Hilfestellung
+
 1. **Programmstruktur und Benutzerinteraktion**:
     - Zuerst habe ich die grundlegende Struktur des Programms mit einer `main`-Methode definiert, die den Einstiegspunkt für Java-Anwendungen darstellt.
     - Dann habe ich einen `Scanner` hinzugefügt, um Benutzereingaben über die Konsole zu ermöglichen, und den Benutzer aufgefordert, eine Zahl einzugeben.
