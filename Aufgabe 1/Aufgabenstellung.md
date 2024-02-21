@@ -16,3 +16,8 @@
 *Verwende Schleifen für die iterative Lösung und Methodenaufrufe für die rekursive Lösung.*
 
 *Füge eine einfache Fehlerbehandlung hinzu, um sicherzustellen, dass keine negativen Zahlen eingegeben werden.*
+
+
+
+
+> In "Hilfestellung" ist das Konzept des Programms. Bitte ohne Hilfestellung probieren.
